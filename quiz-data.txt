@@ -76,6 +76,8 @@ A: (4)
 3) - Boring but deadly
 4) - Mostly harmless.
 
+A: (4)
+
 9. Arthur Dent, when trying to get Heart of Gold's supercomputer to brew him a drink, was invariably getting a cup of hot, brown liquied, which was almost, but not quite, entirely unlike... what?
 
 1) - tea
@@ -120,14 +122,16 @@ A: (3)
 
 A: (4)
 
-13. Which of the following was not a piece of a shattered Wikkit Gate:
+13. Which of the following was NOT a piece of a shattered Wikkit Gate:
 
 1) The Argabuthon Scepter of Justice
 2) Marvin's leg
 3) The Rory Peck Award
 4) Ford Prefect's towel
 5) Ashes of the stump signifying the death of English cricket
-6) The Heart of Gold Infinite Improbability drive
+6) The Heart of Gold Infinite Improbability Drive
+
+A: (4)
 
 14. Marvin, 'the paranoid android', especially loathed this creation of his native Cirius Cybernetics Corporation.
 
@@ -136,6 +140,8 @@ A: (4)
 3) - sentient elevators
 4) - talking doors
 
+A: (4)
+
 15. As a Sandwich Maker of Lamuella, meat of what animal was Arthur Dent using for his sandwiches?
 
 1) - Perfectly Normal Beast
@@ -143,13 +149,16 @@ A: (4)
 3) - scintillating jeweled scuttling crabs
 4) - none of the above
 
+A: (1)
+
 16. What was the message dolphins left on Earth, before disappearing?
 
-1) - so long, and thanks for all the fish
-2) - it was nice, but now it's gone
-3) - take care, and visit us on Santraginus V
-4) -
+1) - beware of the mice
+2) - so long, and thanks for all the fish
+3) - it was nice, but now it's gone
+4) - take care, and visit us on Santraginus V
 
+A: (2)
 
 17. What was the name of the daughter of Arthur Dent and Trillian.
 
@@ -158,6 +167,7 @@ A: (4)
 3) - Eccentrica Gallumbits
 4) - Random Frequent Flyer
 
+A: (4)
 
 18. Which of these books is NOT mentioned in Hitchhiker's Guide To The Galaxy
 
@@ -169,3 +179,4 @@ A: (4)
 6) Fifty-Three More Things To Do In Zero Gravity
 
 A: (5)
+
