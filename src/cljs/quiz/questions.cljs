@@ -50,23 +50,23 @@
 
    {:question "... and after Ford Prefect spending 15 years stuck on the planet, what does it expand to?"
     :choices ["Deadly but boring"
-             "Beautiful.. kind of"
-             "Boring but deadly"
-             "Mostly harmless"]
+              "Beautiful.. kind of"
+              "Boring but deadly"
+              "Mostly harmless"]
     :answer "Mostly harmless"
     }
 
    {:question "Arthur Dent, when trying to get Heart of Gold's supercomputer to brew him a drink, was invariably getting a cup of hot, brown liquied, which was almost, but not quite, entirely unlike... what?"
     :choices [ "tea"
-              "coffee"
-              "gin"
-              "milk"]
+               "coffee"
+               "gin"
+               "milk"]
     :answer "tea"}
 
    {:question "How do you spell \"Magrathea\""
     :choices ["MA-grathea"
-             "Magr-A-thea"
-             "Magra-THEA"]
+              "Magr-A-thea"
+              "Magra-THEA"]
     :answer "Magra-THEA"}
 
    {:question "When orbiting the legendary planet of Magrathea, two incoming nuclear missiles were turned by the Improbability Drive of Heart Of Gold spaceship into... what, exactly?"
@@ -77,45 +77,45 @@
     :answer "a sperm whale and bowl of petunias."}
    {:question " What's the trick to learning how to fly?"
     :choices ["really convince yourself you actually can do it"
-             "procuring some antigrav gel"
-             "start falling but manage to miss the ground"
-             "spend an year on top of a pillar on a second planet of Stavromula Beta"]
+              "procuring some antigrav gel"
+              "start falling but manage to miss the ground"
+              "spend an year on top of a pillar on a second planet of Stavromula Beta"]
     :answer "start falling but manage to miss the ground"}
    {:question " Written in thirty-foot high letters of fire on top of the Quentulus Quazgar Mountains in the land of Sevorbeupstry on planet Preliumtarn is God's Final Message to His Creation. What is it?"
     :choices ["Conditions may apply"
-             "May cause depression and anxiety"
-             "Don't panic"
-             "We apologize for the inconvenience"]
+              "May cause depression and anxiety"
+              "Don't panic"
+              "We apologize for the inconvenience"]
     :answer "We apologize for the inconvenience"}
    {:question " Marvin, 'the paranoid android', especially loathed this creation of his native Cirius Cybernetics Corporation."
     :choices ["robotic tanks"
-             "electronic salesmen"
-             "sentient elevators"
-             "talking doors"]
-    :answer nil}
+              "electronic salesmen"
+              "sentient elevators"
+              "talking doors"]
+    :answer "talking doors"}
    {:question " As a Sandwich Maker of Lamuella, meat of what animal was Arthur Dent using for his sandwiches?"
     :choices ["Perfectly Normal Beast"
-             "The Dish Of The Day"
-             "scintillating jeweled scuttling crabs"
-             "none of the above"]
-    :answer nil}
+              "The Dish Of The Day"
+              "scintillating jeweled scuttling crabs"
+              "none of the above"]
+    :answer "Perfectly Normal Beast"}
    {:question "What was the message dolphins left on Earth, before disappearing?"
     :choices ["so long, and thanks for all the fish"
-             "it was nice, but now it's gone"
-             "take care, and visit us on Santraginus V"]
-    :answer nil}
+              "it was nice, but now it's gone"
+              "take care, and visit us on Santraginus V"]
+    :answer "it was nice, but now it's gone"}
    {:question "What was the name of the daughter of Arthur Dent and Trillian."
     :choices ["Last Call Amanda"
-             "Melody Pond"
-             "Eccentrica Gallumbits"
-             "Random Frequent Flyer"]
-    :answer nil}
+              "Melody Pond"
+              "Eccentrica Gallumbits"
+              "Random Frequent Flyer"]
+    :answer "Random Frequent Flyer"}
    {:question "Which of these books is NOT mentioned in Hitchhiker's Guide To The Galaxy"
     :choices ["Hitchhiker's Guide To The Galaxy"
-             "What You Never Wanted to Know About Sex But Were Forced To Find Out"
-             "Some More Of God's Greatest Mistakes"
-             "Last Chance To See"
-             "The Salmon Of Doubt"
-             "Fifty-Three More Things To Do In Zero Gravity"]
-    :answer "5"}
+              "What You Never Wanted to Know About Sex But Were Forced To Find Out"
+              "Some More Of God's Greatest Mistakes"
+              "Last Chance To See"
+              "The Salmon Of Doubt"
+              "Fifty-Three More Things To Do In Zero Gravity"]
+    :answer "The Salmon Of Doubt"}
    ])

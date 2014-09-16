@@ -10,7 +10,6 @@
    [:input {:type    "radio"
             :name     name
             :value    choice
-            :checked "checked"
             :data-toggle "radio"}]
    choice])
 
@@ -18,7 +17,7 @@
   (if (= (dec (count q/questions))
          (->> ["input:checked"] sel count))
     (js/alert "able-now")
-    (dommy/hide! "a")))
+    (map dommy/show! )))
 
 (defn ->question-snippet [q]
   [:li
@@ -27,7 +26,6 @@
     (map (partial choice-fn (:question q)) (:choices q))]])
 
 (defn set-content [s]
-  (dommy/append! (sel1 :#app) [:div])
   (dommy/append! (sel1 :#app) s))
 
 (set-content
@@ -39,7 +37,7 @@
     {:id "the_button"
      :type "button"
      :onclick "quiz.core.tally_score()"}
-    "Don't Panic."]]])
+    "Submit"]]])
 
 (defn count-correct [answers]
   (let [correct (map :answer q/questions)]
