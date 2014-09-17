@@ -4,7 +4,7 @@
   [{:question "What is the Answer to the Ultimate Question of Life, Universe, and Everything?"
     :answer 42
     :choices [0 24 42 NaN "\"\""]}
-   {:question "What was eventually accepted for the Ultimate *Question* of Life, Universe, and Everything?"
+   {:question "...and what was eventually accepted for the Ultimate *Question* of Life, Universe, and Everything?"
     :choices ["What is yellow and dangerous?"
               "How many roads must a man walk down?"
               "How many Vogons does it take to change a lightbulb?"
