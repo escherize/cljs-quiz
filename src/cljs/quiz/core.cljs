@@ -11,16 +11,10 @@
 
 (defn choice-fn [name choice]
   [:div [:label.radio
-         {:onclick "quiz.core.able_button()"}
          [:input {:type    "radio"
                   :name     name
                   :value    choice
                   :data-toggle "radio"}] choice]])
-
-(defn able-button []
-  (if (= (dec (count q/questions))
-         (->> ["input:checked"] sel count))
-    (js/alert "able-now")))
 
 (defn ->question-snippet [q]
   [:li
