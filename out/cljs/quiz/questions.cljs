@@ -2,8 +2,8 @@
 
 (def questions
   [{:question "What is the Answer to the Ultimate Question of Life, Universe, and Everything?"
-    :answer 42
-    :choices [0 24 42 NaN "\"\""]}
+    :answer "42"
+    :choices ["0" "24" "42" "NaN" "\"\""]}
    {:question "What was eventually accepted for the Ultimate *Question* of Life, Universe, and Everything?"
     :choices ["What is yellow and dangerous?"
               "How many roads must a man walk down?"
@@ -117,5 +117,4 @@
               "Last Chance To See"
               "The Salmon Of Doubt"
               "Fifty-Three More Things To Do In Zero Gravity"]
-    :answer "The Salmon Of Doubt"}
-   ])
+    :answer "The Salmon Of Doubt"}])
