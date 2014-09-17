@@ -31,10 +31,7 @@
 (defn count-correct [answers]
   (let [ans  (set answers)
         cor  (set (map :answer q/questions))
-        both (clojure.set/intersection ans cor)
-        _ (js/alert ans )
-        _ (js/alert cor )
-        _ (js/alert both)]
+        both (clojure.set/intersection ans cor)]
     (count both)))
 
 (defn end-message [score]

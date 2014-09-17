@@ -9,3 +9,6 @@ pom.xml.asc
 .lein-repl-history
 .lein-plugins/
 .lein-failures
+/out/quiz/core.js
+/src/cljs/quiz/core.cljs
+/out/quiz/core.js.map
