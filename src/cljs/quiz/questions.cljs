@@ -23,9 +23,9 @@
    {:question "In the beginning of the 1st book, planet Earth was demolished to make way for what?"
     :choices ["A sub-etha casino."
               "A Galgafrinchian golf course."
-              "A Hyperspace byypass."
+              "A Hyperspace bypass."
               "A space maze for white mice."]
-    :answer  "A Hyperspace byypass."}
+    :answer  "A Hyperspace bypass."}
 
    {:question "Yeah, that's *their* cover story - but really?"
     :choices ["To kill Arthur Dent, who was inexplicably woven into the fabric of time and space."
@@ -104,7 +104,7 @@
     :choices ["So long, and thanks for all the fish."
               "It was nice, but now it's gone."
               "Take care, and visit us on Santraginus V."]
-    :answer "It was nice, but now it's gone."}
+    :answer "So long, and thanks for all the fish."}
    {:question "What was the name of the daughter of Arthur Dent and Trillian."
     :choices ["Last Call Amanda"
               "Melody Pond"

@@ -11,16 +11,10 @@
 
 (defn choice-fn [name choice]
   [:div [:label.radio
-         {:onclick "quiz.core.able_button()"}
          [:input {:type    "radio"
                   :name     name
                   :value    choice
                   :data-toggle "radio"}] choice]])
-
-(defn able-button []
-  (if (= (dec (count q/questions))
-         (->> ["input:checked"] sel count))
-    (js/alert "able-now")))
 
 (defn ->question-snippet [q]
   [:li
@@ -49,7 +43,8 @@
         number-correct (count-correct given-answers)]
     (set-content
      [:div
-      [:h2 (end-message number-correct)]
+      [:h2 (str "You've answered " number-correct "/18 questions correctly!")]
+      [:h3 (end-message number-correct)]
       
       [:button.btn.btn-hg.btn-primary.btn-embossed.btn-danger
        {:type "button"
