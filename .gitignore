@@ -10,5 +10,4 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 /out/quiz/core.js
-/src/cljs/quiz/core.cljs
 /out/quiz/core.js.map
