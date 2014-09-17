@@ -42,7 +42,8 @@
         number-correct (count-correct given-answers)]
     (set-content
      [:div
-      [:h2 (end-message number-correct)]
+      [:h2 (str "You've answered " number-correct "/18 questions correctly!")]
+      [:h3 (end-message number-correct)]
       
       [:button.btn.btn-hg.btn-primary.btn-embossed.btn-danger
        {:type "button"
