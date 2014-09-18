@@ -42,21 +42,21 @@
 
    {:question "What does Hitchhiker's Guide to the Galaxy has to say about planet Earth?"
 
-    :choices ["Deadly"
-              "Beautiful"
-              "Boring"
-              "Harmless"]
+    :choices ["Deadly."
+              "Beautiful."
+              "Boring."
+              "Harmless."]
     :answer "Harmless"}
 
    {:question "... and after Ford Prefect spending 15 years stuck on the planet, what does it expand to?"
-    :choices ["Deadly but boring"
-              "Beautiful...kind of"
-              "Boring but deadly"
-              "Mostly harmless"]
+    :choices ["Deadly but boring."
+              "Beautiful...kind of."
+              "Boring but deadly."
+              "Mostly harmless."]
     :answer "Mostly harmless"
     }
 
-   {:question "Arthur Dent, when trying to get Heart of Gold's supercomputer to brew him a drink, was invariably getting a cup of hot, brown liquied, which was almost, but not quite, entirely unlike... what?"
+   {:question "Arthur Dent, when trying to get Heart of Gold's supercomputer to brew him a drink, was invariably getting a cup of hot, brown liquid, which was almost, but not quite, entirely unlike... what?"
     :choices [ "Tea"
                "Coffee"
                "Gin"
